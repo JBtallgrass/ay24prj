@@ -1,4 +1,4 @@
-﻿Last Name,First Name,Username,Learner ID,Last Access,Availability,Total,C100F - Final Grade (Pass/Fail),C100A1 IDP,C171A1 Argumentative Essay,C172A1 Info Brief ,C400B1 Diagnostic Exam ,F100B1 Pretest (U.S.) ,F100B1 Pretest (IMS),S100B1 Pretest 
+﻿Last Name,First Name,Username,Learner ID,Last Access,Availability,Total,Final Grade,IDP,Argumentative Essay,Info Brief ,Diagnostic Exam ,Pretest (U.S.) ,Pretest (IMS),Pretest 
 ALLEN,JUSTIN,justin.lee.allen,01A,4/28/2024 18:40,Yes,463.84315,Pass,Pass,Pass,Pass,80,Fail,,Fail
 ALLISON,KEVIN,kevin.e.allison,01A,1/11/2024 13:42,Yes,453.84315,Pass,Pass,Pass,Pass,58,Fail,,Fail
 BARRETT,ADAM,adam.r.barrett,01A,4/5/2024 9:42,Yes,443.69936,Pass,Pass,Pass,Pass,62,Fail,,Fail
@@ -8,7 +8,7 @@ FELKER,JOHN,john.felker1,01A,5/17/2024 8:54,Yes,502.41178,Pass,Pass,Pass,Pass,90
 GRISWOULD,GORDON,gordon.griswould,01A,1/4/2024 13:26,Yes,477.93178,Pass,Pass,Pass,Pass,72,Fail,,Fail
 KHAN,MOHAMMED,mohammed.khan5,01A,3/25/2024 21:35,Yes,520.08662,Pass,Pass,Pass,Pass,80,Fail,,Fail
 MEDINA,KENNETH,kenny.medina,01A,5/3/2024 6:09,Yes,491.91178,Pass,Pass,Pass,Pass,80,Fail,,Fail
-MENDOUA,JEAN,jeanyvesmendoua@gmail.com,01A,2/8/2024 2:55,Yes,406.04,Pass,Pass,Pass,Pass,64,,Fail,Needs Evaluation
+MENDOUA,JEAN,jeanyvesmendoua@gmail.com,01A,2/8/2024 2:55,Yes,406.04,Pass,Pass,Pass,Pass,64,,Fail,Fail
 MOCK,JEFFREY,jeffrey.m.mock,01A,3/25/2024 9:26,Yes,460.84315,Pass,Pass,Pass,Pass,68,Fail,,Fail
 SINAN,HUSSAIN,6290hussainsinan@gmail.com,01A,5/1/2024 20:52,Yes,433.75694,Pass,Pass,Pass,Pass,64,,Fail,Fail
 TROXELL,MARGARET-ELIZABETH,margaretelizabeth.s.troxell,01A,4/4/2024 10:21,Yes,492.59315,Pass,Pass,Pass,Pass,76,Fail,,Fail
@@ -22,7 +22,7 @@ BURK,BENJAMIN,benjamin.m.burk,01B,5/8/2024 23:45,Yes,472.05557,Pass,Pass,Pass,Pa
 CLAASSEN,GRANT,grant.claassen,01B,4/26/2024 10:46,Yes,454.91178,Pass,Pass,Pass,Pass,62,Fail,,Fail
 DAVIS,ALFRANZO,alfranzo.davis,01B,2/13/2024 16:54,Yes,452.63073,Pass,Pass,Pass,Pass,58,,Fail,Fail
 HENRIQUEZ,JORGE,jorge.a.henriquez,01B,4/30/2024 12:46,Yes,426.59315,Pass,Pass,Pass,Pass,48,Fail,,Fail
-KAMBERAJ,MIRFILE,kmirfila@gmail.com,01B,12/6/2023 12:53,Yes,533.6763,Pass,Pass,Pass,Pass,62,,Pass,Pass
+KAMBERAJ,MIRFILE,kmirfila@gmail.com,01B,12/6/2023 12:53,Yes,533.6763,Pass,Pass,Pass,Pass,62,,Pass,Fail
 MEIDENBAUER,MARY,mary.r.meidenbauer,01B,3/6/2024 10:50,Yes,481.30557,Pass,Pass,Pass,Pass,80,Fail,,Fail
 OLSON,JERRED,jerred.olson,01B,2/13/2024 12:50,Yes,445.40831,Pass,Pass,Pass,Pass,70,Fail,,Fail
 PERKINS,BRANDON,brandon.p.perkins,01B,5/30/2024 8:44,Yes,444.72694,Pass,Pass,Pass,Pass,56,Fail,,Fail
@@ -58,17 +58,17 @@ WESSEWANE-DESYEYE ZATO,FABRICE,22.wessewane.desyeye.fabrice.esam2@gmail.com,01D,
 WILCOX,JOSHUA,joshua.g.wilcox,01D,5/9/2024 6:49,Yes,480.40178,Pass,Pass,Pass,Pass,70,Fail,,Fail
 WILLIAMS,CODY,cody.andre.williams,01D,4/18/2024 8:34,Yes,450.55557,Pass,Pass,Pass,Pass,70,Fail,,Fail
 WU,ANSON,anson.wu,01D,12/12/2023 13:16,Yes,433.43831,Pass,Pass,Pass,Pass,58,Fail,,Fail
-AARON,BURDT,aaron.r.burdt,02A,5/6/2024 6:54,Yes,649.80557,Pass,Pass,80,Pass,76,74.5,70.75,48.55557
-BAIERLEIN,MICHAEL,michael.j.baierlein,02A,5/24/2024 11:02,Yes,567.19283,Pass,Pass,80,Pass,66,55.5,,65.69283
-BEARD,LEVI,levi.t.beard,02A,6/5/2024 10:25,Yes,528.05557,Pass,Pass,80,Pass,52,,47.5,48.55557
-COLEMAN,JOSHUA,joshua.a.coleman,02A,5/30/2024 14:22,Yes,596.48041,Pass,Pass,80,Pass,78,78.5,,59.98041
-CRUSSELLE,CHRISTOPHER,chris.crusselle,02A,4/30/2024 0:25,Yes,633.72388,Pass,Pass,80,Pass,94,79.75,,79.97388
-HUGHES,MATTHEW,matthew.t.hughes2,02A,6/2/2024 13:36,Yes,553.26799,Pass,Pass,80,Pass,60,,59,54.26799
-LANKFORD,ZACHARY,zachary.p.lankford,02A,6/1/2024 13:34,Yes,524.98694,Pass,Pass,80,Pass,64,41,,39.98694
-MCCANN,MICHAEL,michael.mccann1,02A,6/5/2024 8:18,Yes,552.6242,Pass,Pass,80,Pass,72,,43.5,57.1242
-MOOREHOUSE,MELISSA,melissa.a.moorehouse,02A,3/19/2024 8:25,Yes,550.41178,Pass,Pass,80,Pass,70,49,,51.41178
-RAGEH,MOSTAFA ELDESOKEY MAHMOUD,mostafarageh28@yahoo.com,02A,3/28/2024 8:41,Yes,553.76799,Pass,Pass,80,Pass,76,,43.5,54.26799
-RAMOS,CHRISTINA,christina.l.ramos,02A,4/12/2024 13:16,Yes,535.50694,Pass,Pass,80,Pass,84,31.52,,39.98694
+AARON,BURDT,aaron.r.burdt,02A,5/6/2024 6:54,Yes,649.80557,Pass,Pass,80,Pass,76,74.5,70.75,Fail
+BAIERLEIN,MICHAEL,michael.j.baierlein,02A,5/24/2024 11:02,Yes,567.19283,Pass,Pass,80,Pass,66,55.5,,Fail
+BEARD,LEVI,levi.t.beard,02A,6/5/2024 10:25,Yes,528.05557,Pass,Pass,80,Pass,52,,47.5,Fail
+COLEMAN,JOSHUA,joshua.a.coleman,02A,5/30/2024 14:22,Yes,596.48041,Pass,Pass,80,Pass,78,78.5,,Fail
+CRUSSELLE,CHRISTOPHER,chris.crusselle,02A,4/30/2024 0:25,Yes,633.72388,Pass,Pass,80,Pass,94,79.75,,Fail
+HUGHES,MATTHEW,matthew.t.hughes2,02A,6/2/2024 13:36,Yes,553.26799,Pass,Pass,80,Pass,60,,59,Fail
+LANKFORD,ZACHARY,zachary.p.lankford,02A,6/1/2024 13:34,Yes,524.98694,Pass,Pass,80,Pass,64,41,,Fail
+MCCANN,MICHAEL,michael.mccann1,02A,6/5/2024 8:18,Yes,552.6242,Pass,Pass,80,Pass,72,,43.5,Fail
+MOOREHOUSE,MELISSA,melissa.a.moorehouse,02A,3/19/2024 8:25,Yes,550.41178,Pass,Pass,80,Pass,70,49,,Fail
+RAGEH,MOSTAFA ELDESOKEY MAHMOUD,mostafarageh28@yahoo.com,02A,3/28/2024 8:41,Yes,553.76799,Pass,Pass,80,Pass,76,,43.5,Fail
+RAMOS,CHRISTINA,christina.l.ramos,02A,4/12/2024 13:16,Yes,535.50694,Pass,Pass,80,Pass,84,31.52,,Fail
 TAYLOR,CORNELIUS,cornelius.taylor2,02A,4/15/2024 16:38,Yes,481.5,Pass,Pass,80,Pass,58,43.5,,
 VASILEV,RADOSLAV,vasilev326@gmail.com,02A,3/1/2024 10:34,Yes,509.75,Pass,Pass,80,Pass,64,,65.75,
 ANDRADE,DERRICK,derrick.r.andrade,02B,10/5/2023 11:33,Yes,539.11315,Pass,Pass,100,Pass,62,34.27,,42.84315
