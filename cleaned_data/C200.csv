@@ -1,4 +1,4 @@
-identifier,team,section,last_name,first_name,learner_id,last_access,availability,weighted_total,total_,c200p1_(c299)_contribution_to_group_learning_,c200p2_(c201-c206)_contribution_to_group_learning_,c200a1_test_2_essay_,c200b1_test_1_us_students_,c200b1_test_1_ims_students,unnamed:_13
+identifier,team,section,last_name,first_name,learner_id,last_access,availability,weighted_total,total,(c299)_cltg,_(c201-c206)_ctgl,c200a1_test_2_essay_,c200b1_test_1_us,c200b1_test_1_ims,unnamed:_13
 AJ01A,01,A,ALLEN,JUSTIN,01A,1/20/2024 12:04,Yes,93.45,375.0,93.0,90.0,92,100,,
 AK01A,01,A,ALLISON,KEVIN,01A,11/12/2023 16:31,Yes,92.15,370.0,93.0,90.0,91,96,,
 BA01A,01,A,BARRETT,ADAM,01A,1/30/2024 13:03,Yes,97.05,384.0,96.0,93.0,99,96,,
