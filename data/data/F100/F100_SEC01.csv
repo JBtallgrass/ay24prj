@@ -1,4 +1,4 @@
-﻿last_name,first_name,username,learner_id,last_access,availability,f100_wt_ttl,f100_ttl,f100_chngprop,f100_exam_ims,f100_exam_us,f100_-azchk1,f100_azchk2,f100_chngprop_brief
+﻿last_name,first_name,username,learner_id,last_access,availiability,f100_wt_ttl,f100_ttl,f100_change_proposal,f100_exam_ims,f100_exam_us,f100_azck1,f100_azck2,f100_presentation
 ACOSTA,MITCHELL,mitch.f.acosta,01C,4/30/2024 9:11,Yes,97.5,490.6,99.4,,91.2,100,100,100
 ALLEN,JUSTIN,justin.lee.allen,01A,1/20/2024 12:04,Yes,98.5,494,100,,94,100,100,100
 ALLISON,KEVIN,kevin.e.allison,01A,11/7/2023 20:43,Yes,92.80036,474.07847,93,,87.73333,100,96.34743,96.99771
